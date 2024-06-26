@@ -5,7 +5,7 @@ import AuthSection from './AuthSection'
 
 const NavBar = () => {
   return (
-    <div className="flex flex-col gap-3 pt-2">
+    <div className=" bg-slate-200 flex flex-col gap-3 pt-2">
         <div className="flex justify-between px-4 pt-4 items-center">
           <LogoSection/>
           <MenuSection/>
