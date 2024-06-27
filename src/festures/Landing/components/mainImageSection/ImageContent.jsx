@@ -51,7 +51,18 @@ const imageInfo=[
         id:'img-10',
         image:'/images/pexels-pic_10.jpg',
         icon:'X'
-    }
+    },
+    {
+        id:'img-11',
+        image:'/images/pexels-pic_11.jpg',
+        icon:'X'
+    },
+    {
+        id:'img-11',
+        image:'/images/pexels-pic_12.jpg',
+        icon:'X'
+    },
+
 ]
 
 

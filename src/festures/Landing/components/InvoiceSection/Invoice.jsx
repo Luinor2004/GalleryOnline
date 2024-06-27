@@ -77,7 +77,8 @@ const Invoice = () => {
                     <div className=" pl-[400px] pr-[100px] flex flex-col mt-10 bg-slate-50">
                         <p className="pb-2 text-4xl font-semibold border-b-2 border-slate-400">Invoice Details</p>
                         <div className=" index-sec flex flex-col
-                        md:grid-cols-1  gap-[10px]  py-6">
+                         gap-[10px] py-6
+                         ">
 
                             {/* start of me */}
                             <MainIndex name={name} setName={setName} address={address} setAddress={setAddress} email={email} setEmail={setEmail}/>
